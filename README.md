@@ -2,6 +2,7 @@
 
 Motion detection algorithm based on Σ-Δ background estimation
 
+## References
 #### A new motion detection algorithm based on Sigma-Delta background estimation - [pdf](https://hal.archives-ouvertes.fr/hal-01222650/document)
 
 #### Basic motion detection and tracking with Python and OpenCV - [website](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
